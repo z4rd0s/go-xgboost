@@ -1,9 +1,9 @@
-[![GoDoc](https://godoc.org/github.com/Applifier/go-xgboost/core?status.svg)](http://godoc.org/github.com/Applifier/go-xgboost/core)
+[![GoDoc](https://godoc.org/github.com/z4rd0s/go-xgboost/core?status.svg)](http://godoc.org/github.com/z4rd0s/go-xgboost/core)
 
 # Core package
 
 ```go
-import "github.com/Applifier/go-xgboost/core"
+import "github.com/z4rd0s/go-xgboost/core"
 ```
 
 ## Example

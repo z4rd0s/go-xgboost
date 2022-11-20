@@ -10,7 +10,7 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/Applifier/go-xgboost/core"
+	"github.com/z4rd0s/go-xgboost/core"
 )
 
 type tester interface {
